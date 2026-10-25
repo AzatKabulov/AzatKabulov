@@ -66,9 +66,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Vocabify**](https://github.com/AzatKabulov/Vocabify) | Vocabulary learning app with SRS algorithm & quiz modes, based on Friends TV show | React, JS |
-| [**La Italiano**](https://github.com/AzatKabulov/La-Italiano) | Luxury Italian restaurant website — bilingual EN/RU, SVG floor plan, reservation system | HTML, CSS, JS |
-| [**Online Flower Shop**](https://github.com/AzatKabulov/Online-Flower-Shop) | Full e-commerce UI with 18 pages, shared design system, and inline SVG icons | HTML, CSS, JS |
+| [**ERP System**](https://github.com/AzatKabulov/ERP-System) | Inventory ERP for shops in Turkmenistan — stock ledger, purchasing, sales & PDF receipts, Russian/Turkmen interfaces | Flutter, Django, PostgreSQL |
+| [**FightIQ**](https://github.com/AzatKabulov/ufc-fight-prediction-model) | UFC fight prediction & analytics platform — time-aware matchup features, model-vs-market signals, accuracy tracking | React, TypeScript, FastAPI, Python |
+| [**Spendify**](https://github.com/AzatKabulov/Spendify) | AI-powered, offline-first budgeting app for students in Malaysia — receipt scanning, budgets & gamification | Flutter, Firebase, Gemini |
 
 
 
